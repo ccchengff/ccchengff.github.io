@@ -1,0 +1,13 @@
+baseURL = "https://ccchengff.github.io/"
+languageCode = "en-us"
+title = "Fangcheng Fu"
+theme = "notrack"
+newContentEditor = "nvim"
+paginate = 4
+
+[params]
+  author = "Fangcheng Fu"
+  siteHeading = "Fangcheng Fu 符芳诚" # defaults to author
+  favicon = "img/icon.png" # Adds a small icon next to the page title in a tab
+  showBlogLatest = false
+  showTaxonomyLinks = false
