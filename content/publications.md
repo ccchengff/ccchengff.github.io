@@ -1,6 +1,5 @@
 ---
 title: "Publications and Patents"
-date: 2024-08-25
 draft: false
 menu:
   main:
@@ -30,6 +29,26 @@ Enabling Parallelism Hot Switching for Efficient Training of Large Language Mode
 Hao Ge<sup>*</sup>, <b>Fangcheng Fu</b><sup>*#</sup>, Haoyang Li, Xuanyu Wang, Sheng Lin, Yujie Wang, Xiaonan Nie, Hailin Zhang, Xupeng Miao, Bin Cui<sup>#</sup>
 <br>
 <b>SOSP 2024</b>
+</li>
+
+<li>
+<i>
+Efficient Multi-task LLM Quantization and Serving for Multiple LoRA Adapters
+</i>
+<br>
+Yifei Xia, <b>Fangcheng Fu</b><sup>#</sup>, Wentao Zhang, Jiawei Jiang, Bin Cui<sup>#</sup>
+<br>
+<b>NeurIPS 2024</b>
+</li>
+
+<li>
+<i>
+LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing
+</i>
+<br>
+Xiaonan Nie, Qibin Liu, <b>Fangcheng Fu</b>, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui
+<br>
+<b>NeurIPS 2024</b>
 </li>
 
 <li>

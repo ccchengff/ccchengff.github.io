@@ -1,6 +1,5 @@
 ---
 title: "System Projects"
-date: 2024-08-25
 draft: false
 menu:
   main:

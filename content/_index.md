@@ -1,6 +1,5 @@
 ---
 title: ""
-date: 2024-08-25
 draft: false
 menu:
   main:
@@ -52,14 +51,14 @@ I'm on the job market now! Feel free to contact me if you have any openings that
 <p><h2>Research</h2></p>
 
 <p>
-My research generally focuses on how to make machine learning and artificial intelligence more reachable and practical. Particularly, my research falls into two directions.
+My research generally focuses on how to make machine learning (ML) and artificial intelligence (AI) more reachable and practical through advanced <b>machine learning system (MLSys)</b> techniques. Particularly, my research falls into two directions.
 
 <ul>
 <li>
-Developing efficient and robust distributed machine/deep learning systems to bring down the cost of large-scale models (e.g., LLM, AIGC), including but not limited to system architectures, parallelism, communication optimization, memory optimization, and heterogeneous computing. 
+Developing <b>efficient and robust distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC), including but not limited to system architectures, parallelism, communication optimization, memory optimization, and heterogeneous computing.
 </li>
 <li>
-Building secure and high-performance federated privacy-enhancng computing systems for geo-distributed collaboration, including but not limited to system abstractions, privacy protection, and computation protocols.
+Building <b>privacy-enhancing and high-performance federated learning systems</b> for geo-distributed collaboration, including but not limited to system abstractions, privacy protection, and computation protocols.
 </li>
 </ul>
 
@@ -72,6 +71,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 Sep 2024 &emsp; 
+Two papers accepted to <i><b>NeurIPS 2024</b></i>
+<br>
 🏆 Aug 2024 &emsp; 
 We won the Best Paper Award in <i><b>NDBC 2024</b></i>
 <br>
@@ -79,7 +81,7 @@ We won the Best Paper Award in <i><b>NDBC 2024</b></i>
 One paper accepted to <i><b>SOSP 2024</b></i>
 <br>
 👏 Aug 2024 &emsp; 
-My first personal website is online!
+My first personal website online!
 </p>
 
 
