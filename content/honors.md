@@ -17,6 +17,9 @@ menu:
 
 <ul>
 <li>
+ACM SIGMOD China Doctoral Dissertation Award, 2024
+</li>
+<li>
 Excellent Graduate, Beijing, 2023
 </li>
 <li>

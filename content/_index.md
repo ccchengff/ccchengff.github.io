@@ -71,14 +71,20 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 Nov 2024 &emsp; 
+One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+<br>
+🏆 Sep 2024 &emsp; 
+Honored to be awarded the <a href="https://mp.weixin.qq.com/s/ssXyel3jNogGhV9McNMGyg"><i>2024 ACM SIGMOD China Doctoral Dissertation Award</i></a>
+<br>
 🎉 Sep 2024 &emsp; 
-Two papers accepted to <i><b>NeurIPS 2024</b></i>
+Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
 <br>
 🏆 Aug 2024 &emsp; 
-We won the Best Paper Award in <i><b>NDBC 2024</b></i>
+Honored to win the <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCDB/hyxw/2024-08-13/829394.shtml"><i>Best Paper Award in NDBC 2024</i></a>
 <br>
 🎉 Aug 2024 &emsp; 
-One paper accepted to <i><b>SOSP 2024</b></i>
+One paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
 <br>
 👏 Aug 2024 &emsp; 
 My first personal website online!

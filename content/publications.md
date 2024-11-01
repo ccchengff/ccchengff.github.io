@@ -17,6 +17,22 @@ menu:
 
 <p><sup>*</sup> indicates equal contribution, <sup>#</sup> indicates corresponding author</p>
 
+<p><h2>2025</h2></p>
+
+<ul>
+
+<li>
+<i>
+Memo: Fine-grained Tensor Management For Ultra-long Context LLM Training
+</i>
+<br>
+Pinxue Zhao, Hailin Zhang, <b>Fangcheng Fu</b><sup>#</sup>, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui<sup>#</sup>
+<br>
+<b>SIGMOD 2025</b>
+</li>
+
+</ul>
+
 <p><h2>2024</h2></p>
 
 <ul>
@@ -46,7 +62,7 @@ Yifei Xia, <b>Fangcheng Fu</b><sup>#</sup>, Wentao Zhang, Jiawei Jiang, Bin Cui<
 LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing
 </i>
 <br>
-Xiaonan Nie, Qibin Liu, <b>Fangcheng Fu</b>, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui
+Xiaonan Nie, Qibin Liu, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xupeng Miao, Xiaoyang Li, Yang Zhang, Shouda Liu, Bin Cui<sup>#</sup>
 <br>
 <b>NeurIPS 2024</b>
 </li>
@@ -66,7 +82,7 @@ ProjPert: Projection-based Perturbation for Label Protection in Split Learning b
 Improving Automatic Parallel Training via Balanced Memory Workload Optimization
 </i>
 <br>
-Yujie Wang, Youhe Jiang, Xupeng Miao, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui<sup>#</sup>
+Yujie Wang, Youhe Jiang, Xupeng Miao<sup>#</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui<sup>#</sup>
 <br>
 <b>TKDE 2024</b>
 </li>
