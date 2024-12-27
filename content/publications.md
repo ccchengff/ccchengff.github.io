@@ -31,6 +31,36 @@ Pinxue Zhao, Hailin Zhang, <b>Fangcheng Fu</b><sup>#</sup>, Xiaonan Nie, Qibin L
 <b>SIGMOD 2025</b>
 </li>
 
+<li>
+<i>
+Towards Scalable and Efficient Graph Structure Learning
+</i>
+<br>
+Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, <b>Fangcheng Fu</b>, Yingxia, Shao, Bin Cui
+<br>
+<b>ICDE 2025</b>
+</li>
+
+<li>
+<i>
+Detecting and Analyzing Motifs in Large-scale Online Transaction Networks
+</i>
+<br>
+Jiawei Jiang, Hao Huang, Zhigao Zheng, Yi Wei, <b>Fangcheng Fu</b>, Xiaosen Li, Bin Cui
+<br>
+<b>TKDE 2025 (To appear)</b>
+</li>
+
+<li>
+<i>
+HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning
+</i>
+<br>
+Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Quanqing Xu, Ziyi Li, Chuang Hu, Jiawei Jiang 
+<br>
+<b>AAAI 2025</b>
+</li>
+
 </ul>
 
 <p><h2>2024</h2></p>
@@ -74,7 +104,7 @@ ProjPert: Projection-based Perturbation for Label Protection in Split Learning b
 <br>
 <b>Fangcheng Fu</b>, Xuanyu Wang, Jiawei Jiang, Huanran Xue, and Bin Cui
 <br>
-<b>TKDE 2024</b>
+<b>TKDE 36(7): 3417-3428 (2024)</b>
 </li>
 
 <li>
@@ -84,7 +114,7 @@ Improving Automatic Parallel Training via Balanced Memory Workload Optimization
 <br>
 Yujie Wang, Youhe Jiang, Xupeng Miao<sup>#</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui<sup>#</sup>
 <br>
-<b>TKDE 2024</b>
+<b>TKDE 36(8): 3906-3920 (2024)</b>
 </li>
 
 <li>
@@ -161,7 +191,7 @@ P2CG: A Privacy Preserving Collaborative Graph Neural Network Training Framework
 <br>
 Xupeng Miao, Wentao Zhang, Yuezihan Jiang, <b>Fangcheng Fu</b>, Yingxia Shao, Lei Chen, Yangyu Tao, Gang Cao, Bin Cui
 <br>
-<b>VLDB Journal 2023</b>
+<b>VLDB Journal 32(4): 717-736 (2023)</b>
 </li>
 
 <li>
@@ -269,7 +299,7 @@ SKCompress: Compressing Sparse and Nonuniform Gradient in Distributed Machine Le
 <br>
 Jiawei Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Tong Yang, Yingxia Shao, Bin Cui
 <br>
-<b>VLDB Journal 2020</b>
+<b>VLDB Journal 29(5): 945-972 (2020)</b>
 </li>
 
 </ul>
@@ -286,16 +316,6 @@ An Experimental Evaluation of Large Scale GBDT Systems
 <b>Fangcheng Fu</b>, Jiawei Jiang, Yingxia Shao, Bin Cui
 <br>
 <b>VLDB 2019</b>
-</li>
-
-<li>
-<i>
-Distributed Gradient Boosting Decision Tree Algorithm for High-dimensional and Multi-classification Problems (in Chinese)
-</i>
-<br>
-Jiawei Jiang, <b>Fangcheng Fu</b>, Yingxia Shao, Bin Cui
-<br>
-<b>Journal of Software (软件学报) 2019</b>
 </li>
 
 </ul>
@@ -322,6 +342,32 @@ DimBoost: Boosting Gradient Boosting Tree to Higher Dimensions
 Jiawei Jiang, Bin Cui, Ce Zhang, <b>Fangcheng Fu</b>
 <br>
 <b>SIGMOD 2018</b>
+</li>
+
+</ul>
+
+<p><h2>Papers in Chinese</h2></p>
+
+<ul>
+
+<li>
+<i>
+MQLserve：基于量化的多任务大语言模型服务系统/MQLserve: Quantization-based Multi-task LLM serve system
+</i>
+<br>
+<b>符芳诚</b>,夏义扉,崔斌/<b>Fangcheng Fu</b>, Yifei Xia, Bin Cui
+<br>
+<b>计算机学报/Chinese Journal of Computers (To appear), <i>NDBC 2024 Best Paper</i></b>
+</li>
+
+<li>
+<i>
+面向高维特征和多分类的分布式梯度提升树/Distributed Gradient Boosting Decision Tree Algorithm for High-dimensional and Multi-classification Problems
+</i>
+<br>
+江佳伟,<b>符芳诚</b>,邵蓥侠,崔斌/Jiawei Jiang, <b>Fangcheng Fu</b>, Yingxia Shao, Bin Cui
+<br>
+<b>软件学报/Journal of Software, 2019, 30(3):784-798</b>
 </li>
 
 </ul>

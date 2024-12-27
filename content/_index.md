@@ -37,7 +37,7 @@ Fangcheng Fu is currently a Boya Postdoctoral Researcher at the <a href="https:/
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning algorithms and systems and geo-distributed federated learning. He has published more than 20 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ICML, NeurIPS, KDD, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 20 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ICML, NeurIPS, KDD, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p style="color:Red">
@@ -55,10 +55,10 @@ My research generally focuses on how to make machine learning (ML) and artificia
 
 <ul>
 <li>
-Developing <b>efficient and robust distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC), including but not limited to system architectures, parallelism, communication optimization, memory optimization, and heterogeneous computing.
+Developing <b>efficient and robust distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC) training and inference.
 </li>
 <li>
-Building <b>privacy-enhancing and high-performance federated learning systems</b> for geo-distributed collaboration, including but not limited to system abstractions, privacy protection, and computation protocols.
+Building <b>high-performance and privacy-preserving data processing and analytic systems</b>, aiming to process large-scale data efficiently and securely.
 </li>
 </ul>
 
@@ -71,6 +71,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🏆 Sep 2024 &emsp; 
+Honored to be awarded the <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jCti6w"><i>2024 ACM China Doctoral Dissertation Award</i></a> (Top 2 in China)
+<br>
 🎉 Nov 2024 &emsp; 
 One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
 <br>
