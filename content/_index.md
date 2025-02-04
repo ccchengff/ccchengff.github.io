@@ -37,7 +37,7 @@ Fangcheng Fu is currently a Boya Postdoctoral Researcher at the <a href="https:/
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 20 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ICML, NeurIPS, KDD, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 30 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p style="color:Red">
@@ -71,7 +71,16 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
-🏆 Sep 2024 &emsp; 
+🎉 Feb 2025 &emsp; 
+Two papers accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+<br>
+🎉 Jan 2025 &emsp; 
+Two papers accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
+<br>
+🎉 Jan 2025 &emsp; 
+One paper accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
+<br>
+🏆 Dec 2024 &emsp; 
 Honored to be awarded the <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jCti6w"><i>2024 ACM China Doctoral Dissertation Award</i></a> (Top 2 in China)
 <br>
 🎉 Nov 2024 &emsp; 
@@ -84,7 +93,7 @@ Honored to be awarded the <a href="https://mp.weixin.qq.com/s/ssXyel3jNogGhV9McN
 Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
 <br>
 🏆 Aug 2024 &emsp; 
-Honored to win the <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCDB/hyxw/2024-08-13/829394.shtml"><i>Best Paper Award in NDBC 2024</i></a>
+Honored to be awarded the <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCDB/hyxw/2024-08-13/829394.shtml"><i>Best Paper Award in NDBC 2024</i></a>
 <br>
 🎉 Aug 2024 &emsp; 
 One paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>

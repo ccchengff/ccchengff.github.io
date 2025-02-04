@@ -23,12 +23,62 @@ menu:
 
 <li>
 <i>
+Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization
+</i>
+<br>
+Haoyang Li<sup>*</sup>, <b>Fangcheng Fu</b><sup>*#</sup>, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yujie Wang, Hailin Zhang, Xiaonan Nie, Bin Cui<sup>#</sup>
+<br>
+<b>SIGMOD 2025</b>
+</li>
+
+<li>
+<i>
+PQCache: Product Quantization-based KVCache for Long Context LLM Inference
+</i>
+<br>
+Hailin Zhang, Xiaodong Ji, Yilin Chen, <b>Fangcheng Fu</b>, Xupeng Miao, Xiaonan Nie, Weipeng Chen, Bin Cui
+<br>
+<b>SIGMOD 2025</b>
+</li>
+
+<li>
+<i>
 Memo: Fine-grained Tensor Management For Ultra-long Context LLM Training
 </i>
 <br>
 Pinxue Zhao, Hailin Zhang, <b>Fangcheng Fu</b><sup>#</sup>, Xiaonan Nie, Qibin Liu, Fang Yang, Yuanbo Peng, Dian Jiao, Shuaipeng Li, Jinbao Xue, Yangyu Tao, Bin Cui<sup>#</sup>
 <br>
 <b>SIGMOD 2025</b>
+</li>
+
+<li>
+<i>
+Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling
+</i>
+<br>
+Yujie Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xupeng Miao<sup>#</sup>, Jie Zhang, Juan Zhu, Fan Hong, Yong Li, Bin Cui<sup>#</sup>
+<br>
+<b>ASPLOS 2025</b>
+</li>
+
+<li>
+<i>
+FlexSP: Accelerating Large Language Model Training via Flexible Sequence Parallelism
+</i>
+<br>
+Yujie Wang, Shiju Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xinyi Liu, Xuefeng Xiao, Huixia Li, Jiashi Li, Faming Wu, Bin Cui<sup>#</sup>
+<br>
+<b>ASPLOS 2025</b>
+</li>
+
+<li>
+<i>
+NetMoE: Accelerating MoE Training through Dynamic Sample Placement
+</i>
+<br>
+Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, Xiaonan Nie, Bin Cui
+<br>
+<b>ICLR 2025</b>
 </li>
 
 <li>
@@ -48,7 +98,7 @@ Detecting and Analyzing Motifs in Large-scale Online Transaction Networks
 <br>
 Jiawei Jiang, Hao Huang, Zhigao Zheng, Yi Wei, <b>Fangcheng Fu</b>, Xiaosen Li, Bin Cui
 <br>
-<b>TKDE 2025 (To appear)</b>
+<b>TKDE 37(2): 584-596 (2025)</b>
 </li>
 
 <li>
@@ -129,7 +179,7 @@ Zihao Yu, Haoyang Li, <b>Fangcheng Fu</b>, Xupeng Miao, Bin Cui
 
 <li>
 <i>
-Reviving Efficient Attention for Long Context Language Modeling: A Survey
+X-former Elucidator: Reviving Efficient Attention for Long Context Language Modeling
 </i>
 <br>
 Xupeng Miao, Shenhan Zhu, <b>Fangcheng Fu</b>, Ziyu Guo, Zhi Yang, Yaofeng Tu, Zhihao Jia, Bin Cui
