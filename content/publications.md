@@ -78,7 +78,17 @@ NetMoE: Accelerating MoE Training through Dynamic Sample Placement
 <br>
 Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, Xiaonan Nie, Bin Cui
 <br>
-<b>ICLR 2025</b>
+<b>ICLR 2025 (Spotlight)</b>
+</li>
+
+<li>
+<i>
+ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
+</i>
+<br>
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao<sup>*</sup>, Taiyi Wang, Bin Cui, Ana Klimovic, Eiko Yoneki
+<br>
+<b>MLSys 2025</b>
 </li>
 
 <li>
@@ -109,6 +119,16 @@ HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Verti
 Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Quanqing Xu, Ziyi Li, Chuang Hu, Jiawei Jiang 
 <br>
 <b>AAAI 2025</b>
+</li>
+
+<li>
+<i>
+RAP: Random Projection is What You Need for Vertical Federated Learning
+</i>
+<br>
+Qinbo Zhang, Xiao Yan, Yukai Ding,<b>Fangcheng Fu</b>, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang
+<br>
+<b>DASFFA 2025</b>
 </li>
 
 </ul>
@@ -285,7 +305,7 @@ BlindFL: Vertical Federated Machine Learning without Peeking into Your Data
 VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?
 </i>
 <br>
-Jiawei Jiang, Lukas Burkhalter, <b>Fangcheng Fu</b><sup>#</sup>, Bo Li, Bolin Ding, Bo Du, Anwar Hithnawi, Ce Zhang
+Jiawei Jiang, Lukas Burkhalter, <b>Fangcheng Fu</b>, Bo Li, Bolin Ding, Bo Du, Anwar Hithnawi, Ce Zhang
 <br>
 <b>NeurIPS 2022</b>
 </li>
@@ -295,7 +315,7 @@ Jiawei Jiang, Lukas Burkhalter, <b>Fangcheng Fu</b><sup>#</sup>, Bo Li, Bolin Di
 Analyzing Online Transaction Networks with Network Motifs
 </i>
 <br>
-Jiawei Jiang, Yusong Hu, Xiaosen Li, Wen Ouyang, Zhitao Wang, <b>Fangcheng Fu</b><sup>#</sup>, Bin Cui
+Jiawei Jiang, Yusong Hu, Xiaosen Li, Wen Ouyang, Zhitao Wang, <b>Fangcheng Fu</b>, Bin Cui
 <br>
 <b>SIGKDD 2022</b>
 </li>
