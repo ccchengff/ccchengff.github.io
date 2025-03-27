@@ -103,6 +103,16 @@ Siqi Shen, Wentao Zhang, Chengshuo Du, Chong Chen, <b>Fangcheng Fu</b>, Yingxia,
 
 <li>
 <i>
+Hounding Data Diversity: Towards Participant Selection in Vertical Federated Learning
+</i>
+<br>
+Xiaokai Zhou, Xiao Yan, <b>Fangcheng Fu</b>, Xinyan Li, Hao Huang, Quanqing Xu, Chuanhui Yang, Bo Du, Tieyun Qian, Jiawei Jiang
+<br>
+<b>ICDE 2025</b>
+</li>
+
+<li>
+<i>
 Detecting and Analyzing Motifs in Large-scale Online Transaction Networks
 </i>
 <br>

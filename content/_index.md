@@ -42,7 +42,7 @@ Fangcheng has broad interests in distributed machine/deep learning algorithms an
 
 <p style="color:Red">
 <strong>
-I'm on the job market now! Feel free to contact me if you have any openings that align with my skills and experience.
+I will be joining the School of Artificial Intelligence, Shanghai Jiao Tong University as a tenure-track Associate Professor this summer. I am actively looking for self-motivated and self-disciplined students (with opening‌ positions for PhD/Master students). Feel free to send me an e-mail (ccchengff [AT] gmail [DOT] com) if you are interested.
 </strong>
 </p>
 
@@ -71,6 +71,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 Feb 2025 &emsp; 
+One paper accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
+<br>
 🎉 Feb 2025 &emsp; 
 Two papers accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
 <br>
