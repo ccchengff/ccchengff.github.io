@@ -71,6 +71,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 April 2025 &emsp; 
+One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+<br>
 🎉 Feb 2025 &emsp; 
 One paper accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
 <br>

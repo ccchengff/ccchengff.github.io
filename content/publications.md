@@ -53,6 +53,16 @@ Pinxue Zhao, Hailin Zhang, <b>Fangcheng Fu</b><sup>#</sup>, Xiaonan Nie, Qibin L
 
 <li>
 <i>
+LobRA: Multi-tenant Fine-tuning over Heterogeneous Data
+</i>
+<br>
+Sheng Lin<sup>*</sup>, <b>Fangcheng Fu</b><sup>*#</sup>, Haoyang Li, Hao Ge, Xuanyu Wang, Jiawen Niu, Yaofeng Tu, Bin Cui<sup>#</sup>
+<br>
+<b>VLDB 2025</b>
+</li>
+
+<li>
+<i>
 Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling
 </i>
 <br>
@@ -437,7 +447,7 @@ MQLserve：基于量化的多任务大语言模型服务系统/MQLserve: Quantiz
 <br>
 <b>符芳诚</b>,夏义扉,崔斌/<b>Fangcheng Fu</b>, Yifei Xia, Bin Cui
 <br>
-<b>计算机学报/Chinese Journal of Computers (To appear), <i>NDBC 2024 Best Paper</i></b>
+<b>计算机学报/Chinese Journal of Computers, 2025, 48(3):517-536 <i>(NDBC 2024 Best Paper)</i></b>
 </li>
 
 <li>
