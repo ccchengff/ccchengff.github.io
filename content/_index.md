@@ -39,10 +39,18 @@ Fangcheng Fu is currently a Boya Postdoctoral Researcher at the <a href="https:/
 <p>
 Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 30 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
+符芳诚现在是北京大学计算机学院博雅博士后研究员，在此之前，他于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。符芳诚专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文30余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖、机器之心「AI中国」年度十大开源事件等奖项荣誉。
+</p>
 
 <p style="color:Red">
 <strong>
 I will be joining the School of Artificial Intelligence, Shanghai Jiao Tong University as a tenure-track Associate Professor this summer. I am actively looking for self-motivated and self-disciplined students (with opening‌ positions for PhD/Master students). Feel free to send me an e-mail (ccchengff [AT] gmail [DOT] com) if you are interested.
+</strong>
+</p>
+
+<p style="color:Red">
+<strong>
+我将于2025年7月加入上海交通大学人工智能学院任长聘教轨副教授（tenure-track Associate Professor），现招收博士/硕士研究生、以及科研实习生，如感兴趣请直接联系我（邮箱：ccchengff [AT] gmail [DOT] com）。
 </strong>
 </p>
 
