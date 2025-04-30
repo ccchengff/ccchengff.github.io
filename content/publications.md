@@ -158,7 +158,7 @@ Model Rake: A Defense Against Stealing Attacks in Split Learning
 <br>
 Qinbo Zhang, Xiao Yan, Yanfeng Zhao, <b>Fangcheng Fu</b>, Quanqing Xu, Yukai Ding, Xiaokai Zhou, Chuang Hu, Jiawei Jiang
 <br>
-<b>AAAI 2025</b>
+<b>IJCAI 2025</b>
 </li>
 
 <li>
