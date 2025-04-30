@@ -83,6 +83,16 @@ Yujie Wang, Shiju Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xinyi Liu,
 
 <li>
 <i>
+ByteScale: Communication-Efficient Scaling of LLM Training with a 2048K Context Length on 16384 GPUs
+</i>
+<br>
+Hao Ge<sup>*</sup>, Junda Feng<sup>*</sup>, Qi Huang<sup>*</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Xiaonan Nie, Lei Zuo, Haibin Lin<sup>#</sup>, Bin Cui<sup>#</sup>, Xin Liu<sup>#</sup>
+<br>
+<b>SIGCOMM 2025</b>
+</li>
+
+<li>
+<i>
 NetMoE: Accelerating MoE Training through Dynamic Sample Placement
 </i>
 <br>
@@ -143,10 +153,20 @@ Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Quanqing Xu, Ziyi Li, Ch
 
 <li>
 <i>
+Model Rake: A Defense Against Stealing Attacks in Split Learning
+</i>
+<br>
+Qinbo Zhang, Xiao Yan, Yanfeng Zhao, <b>Fangcheng Fu</b>, Quanqing Xu, Yukai Ding, Xiaokai Zhou, Chuang Hu, Jiawei Jiang
+<br>
+<b>AAAI 2025</b>
+</li>
+
+<li>
+<i>
 RAP: Random Projection is What You Need for Vertical Federated Learning
 </i>
 <br>
-Qinbo Zhang, Xiao Yan, Yukai Ding,<b>Fangcheng Fu</b>, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang
+Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang
 <br>
 <b>DASFFA 2025</b>
 </li>

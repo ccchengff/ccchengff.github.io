@@ -80,6 +80,9 @@ Feel free to reach out if you are interested in working together on these topics
 
 <p>
 🎉 April 2025 &emsp; 
+One paper accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
+<br>
+🎉 April 2025 &emsp; 
 One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
 <br>
 🎉 Feb 2025 &emsp; 
