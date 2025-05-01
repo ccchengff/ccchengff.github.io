@@ -93,6 +93,16 @@ Hao Ge<sup>*</sup>, Junda Feng<sup>*</sup>, Qi Huang<sup>*</sup>, <b>Fangcheng F
 
 <li>
 <i>
+Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs
+</i>
+<br>
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao, Guoliang He, Xupeng Miao, Ana Klimovic, Bin Cui, Binhang Yuan, Eiko Yoneki
+<br>
+<b>ICML 2025</b>
+</li>
+
+<li>
+<i>
 NetMoE: Accelerating MoE Training through Dynamic Sample Placement
 </i>
 <br>

@@ -79,6 +79,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 May 2025 &emsp; 
+One paper accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
+<br>
 🎉 April 2025 &emsp; 
 One paper accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
 <br>
