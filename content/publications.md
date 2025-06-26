@@ -63,12 +63,12 @@ Sheng Lin<sup>*</sup>, <b>Fangcheng Fu</b><sup>*#</sup>, Haoyang Li, Hao Ge, Xua
 
 <li>
 <i>
-Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling
+PS-MI: Accurate, Efficient, and Private Data Valuation in Vertical Federated Learning
 </i>
 <br>
-Yujie Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xupeng Miao<sup>#</sup>, Jie Zhang, Juan Zhu, Fan Hong, Yong Li, Bin Cui<sup>#</sup>
+Xiaokai Zhou, Xiao Yan, <b>Fangcheng Fu</b>, Ziwen Fu, Tieyun Qian, Yuanyuan Zhu, Qinbo Zhang, Bin Cui, Jiawei Jiang
 <br>
-<b>ASPLOS 2025</b>
+<b>VLDB 2025</b>
 </li>
 
 <li>
@@ -77,6 +77,16 @@ FlexSP: Accelerating Large Language Model Training via Flexible Sequence Paralle
 </i>
 <br>
 Yujie Wang, Shiju Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xinyi Liu, Xuefeng Xiao, Huixia Li, Jiashi Li, Faming Wu, Bin Cui<sup>#</sup>
+<br>
+<b>ASPLOS 2025</b>
+</li>
+
+<li>
+<i>
+Spindle: Efficient Distributed Training of Multi-Task Large Models via Wavefront Scheduling
+</i>
+<br>
+Yujie Wang, Shenhan Zhu, <b>Fangcheng Fu</b><sup>#</sup>, Xupeng Miao<sup>#</sup>, Jie Zhang, Juan Zhu, Fan Hong, Yong Li, Bin Cui<sup>#</sup>
 <br>
 <b>ASPLOS 2025</b>
 </li>
@@ -93,10 +103,20 @@ Hao Ge<sup>*</sup>, Junda Feng<sup>*</sup>, Qi Huang<sup>*</sup>, <b>Fangcheng F
 
 <li>
 <i>
+ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
+</i>
+<br>
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao<sup>*</sup>, Taiyi Wang, Bin Cui, Ana Klimovic, Eiko Yoneki
+<br>
+<b>MLSys 2025</b>
+</li>
+
+<li>
+<i>
 Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs
 </i>
 <br>
-Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao, Guoliang He, Xupeng Miao, Ana Klimovic, Bin Cui, Binhang Yuan, Eiko Yoneki
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao<sup>*</sup>, Guoliang He<sup>*</sup>, Xupeng Miao, Ana Klimovic, Bin Cui, Binhang Yuan, Eiko Yoneki
 <br>
 <b>ICML 2025</b>
 </li>
@@ -106,19 +126,29 @@ Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao, Guoliang 
 NetMoE: Accelerating MoE Training through Dynamic Sample Placement
 </i>
 <br>
-Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, Xiaonan Nie, Bin Cui
+Xinyi Liu, Yujie Wang, <b>Fangcheng Fu</b>, Xupeng Miao, Shenhan Zhu, Xiaonan Nie, Bin Cui
 <br>
 <b>ICLR 2025 (Spotlight)</b>
 </li>
 
 <li>
 <i>
-ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments
+Training-free and Adaptive Sparse Attention for Efficient Long Video Generation
 </i>
 <br>
-Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Xiaozhe Yao<sup>*</sup>, Taiyi Wang, Bin Cui, Ana Klimovic, Eiko Yoneki
+Yifei Xia, Suhan Ling, <b>Fangcheng Fu</b>, Yujie Wang, Huixia Li, Xuefeng Xiao, Bin Cui 
 <br>
-<b>MLSys 2025</b>
+<b>ICCV 2025</b>
+</li>
+
+<li>
+<i>
+Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning
+</i>
+<br>
+Peichao Lai, Zhengfeng Zhang, Wentao Zhang, <b>Fangcheng Fu</b>, Bin Cui
+<br>
+<b>ACL 2025</b>
 </li>
 
 <li>
