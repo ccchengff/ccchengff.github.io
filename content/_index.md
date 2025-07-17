@@ -21,7 +21,7 @@ menu:
     <br>
     <a rel="me"><i class="fa fa-fw fa-map-marker"></i>Shanghai, China</a>
     <br>
-    <a href="mailto:ccchengff@gmail.com" rel="me"><i class="fas fa-envelope fa-fw"></i> Email</a>
+    <a href="mailto:ccchengff@sjtu.edu.cn" rel="me"><i class="fas fa-envelope fa-fw"></i> Email</a>
     <br>
     <a href="https://scholar.google.com/citations?user=vFYm_QEAAAAJ" rel="me"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a>
     <br>
@@ -48,13 +48,13 @@ Fangcheng has broad interests in distributed machine/deep learning algorithms an
 
 <p style="color:Red">
 <strong>
-I am actively looking for self-motivated and self-disciplined students (with opening‌ positions for PhD/Master students). Feel free to send me an e-mail (ccchengff [AT] gmail [DOT] com) if you are interested.
+I am actively looking for self-motivated and self-disciplined students (with opening‌ positions for PhD/Master students). Feel free to send me an e-mail (ccchengff [AT] sjtu [DOT] edu [DOT] cn) if you are interested.
 </strong>
 </p>
 
 <p style="color:Red">
 <strong>
-我正在招收博士/硕士研究生、以及科研实习生，如感兴趣请联系我（邮箱：ccchengff [AT] gmail [DOT] com）。
+我正在招收博士/硕士研究生、以及科研实习生，如感兴趣请联系我（邮箱：ccchengff [AT] sjtu [DOT] edu [DOT] cn）。
 </strong>
 </p>
 
