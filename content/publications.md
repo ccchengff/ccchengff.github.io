@@ -17,6 +17,22 @@ menu:
 
 <p><sup>*</sup> indicates equal contribution, <sup>#</sup> indicates corresponding author</p>
 
+<p><h2>2026</h2></p>
+
+<ul>
+
+<li>
+<i>
+Hydraulis: Balancing Large Transformer Model Training via Co-designing Parallel Strategies and Data Assignment
+</i>
+<br>
+Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Sheng Lin, Hao Ge, Xuanyu Wang, Jiawen Niu, Jinbao Xue, Yangyu Tao, Di Wang, Jie Jiang, Bin Cui<sup>#</sup>
+<br>
+<b>SIGMOD 2026</b>
+</li>
+
+</ul>
+
 <p><h2>2025</h2></p>
 
 <ul>
@@ -209,6 +225,16 @@ RAP: Random Projection is What You Need for Vertical Federated Learning
 Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang
 <br>
 <b>DASFFA 2025</b>
+</li>
+
+<li>
+<i>
+Improving Low-Resource Sequence Labeling with Knowledge Fusion and Contextual Label Explanations
+</i>
+<br>
+Peichao Lai, Jiaxin Gan, Feiyang Ye, Wentao Zhang, Fangcheng Fu, Yilei Wang, Bin Cui
+<br>
+<b>EMNLP 2025</b>
 </li>
 
 </ul>

@@ -48,13 +48,13 @@ Fangcheng has broad interests in distributed machine/deep learning algorithms an
 
 <p style="color:Red">
 <strong>
-I am actively looking for self-motivated and self-disciplined students (with opening‌ positions for PhD/Master students). Feel free to send me an e-mail (ccchengff [AT] sjtu [DOT] edu [DOT] cn) if you are interested.
+I am actively looking for self-motivated and self-disciplined PhD/MS students, (remote) interns, and postdocs. Feel free to send me an e-mail (ccchengff [AT] sjtu [DOT] edu [DOT] cn) if you are interested.
 </strong>
 </p>
 
 <p style="color:Red">
 <strong>
-我正在招收博士/硕士研究生、以及科研实习生，如感兴趣请联系我（邮箱：ccchengff [AT] sjtu [DOT] edu [DOT] cn）。
+我正在招收博士/硕士研究生、科研实习生、以及博士后，如感兴趣请联系我（邮箱：ccchengff [AT] sjtu [DOT] edu [DOT] cn）。
 </strong>
 </p>
 
@@ -83,6 +83,9 @@ Feel free to reach out if you are interested in working together on these topics
 <p><h2>News</h2></p>
 
 <p>
+🎉 Aug 2025 &emsp; 
+One paper accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
+<br>
 🎉 June 2025 &emsp; 
 One paper accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
 <br>
