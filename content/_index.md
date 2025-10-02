@@ -39,22 +39,22 @@ Fangcheng Fu is a tenure-track Associate Professor at the <a href="https://sai.s
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 30 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p>
-符芳诚，上海交通大学人工智能学院长聘教轨副教授，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文30余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖、机器之心「AI中国」年度十大开源事件等奖项荣誉。
+符芳诚，上海交通大学人工智能学院长聘教轨副教授，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文40余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖、机器之心「AI中国」年度十大开源事件等奖项荣誉。
 </p>
 
 <p style="color:Red">
 <strong>
-I am actively looking for self-motivated and self-disciplined PhD/MS students, (remote) interns, and postdocs. Feel free to send me an e-mail (ccchengff [AT] sjtu [DOT] edu [DOT] cn) if you are interested.
+I am actively looking for self-motivated and self-disciplined PhD students (Class 2027), MS students (Class 2026 and 2027), (remote) interns, and postdocs. Feel free to drop me an e-mail (ccchengff [AT] sjtu [DOT] edu [DOT] cn) if you are interested.
 </strong>
 </p>
 
 <p style="color:Red">
 <strong>
-我正在招收博士/硕士研究生、科研实习生、以及博士后，如感兴趣请联系我（邮箱：ccchengff [AT] sjtu [DOT] edu [DOT] cn）。
+我正在招收博士研究生（2027级）、硕士研究生（2026级、2027级）、（远程）科研实习生、以及博士后，如感兴趣请联系我（邮箱：ccchengff [AT] sjtu [DOT] edu [DOT] cn）。
 </strong>
 </p>
 
@@ -119,9 +119,9 @@ Honored to be awarded the <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jC
 🎉 Nov 2024 &emsp; 
 One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
 <br>
-🏆 Sep 2024 &emsp; 
+<!-- 🏆 Sep 2024 &emsp; 
 Honored to be awarded the <a href="https://mp.weixin.qq.com/s/ssXyel3jNogGhV9McNMGyg"><i>2024 ACM SIGMOD China Doctoral Dissertation Award</i></a>
-<br>
+<br> -->
 🎉 Sep 2024 &emsp; 
 Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
 <br>

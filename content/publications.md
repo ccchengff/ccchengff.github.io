@@ -152,7 +152,7 @@ Xinyi Liu, Yujie Wang, <b>Fangcheng Fu</b>, Xupeng Miao, Shenhan Zhu, Xiaonan Ni
 Training-free and Adaptive Sparse Attention for Efficient Long Video Generation
 </i>
 <br>
-Yifei Xia, Suhan Ling, <b>Fangcheng Fu</b>, Yujie Wang, Huixia Li, Xuefeng Xiao, Bin Cui 
+Yifei Xia, Suhan Ling, <b>Fangcheng Fu</b><sup>#</sup>, Yujie Wang, Huixia Li, Xuefeng Xiao, Bin Cui<sup>#</sup> 
 <br>
 <b>ICCV 2025</b>
 </li>
