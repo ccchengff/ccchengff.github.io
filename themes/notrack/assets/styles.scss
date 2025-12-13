@@ -39,6 +39,13 @@ $mq-retina: "(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)";
 // Font-Size
 $base-font-size: 1.1em;
 
+// Font-Family
+// $main-font-families: FreeSerif, serif;
+// $main-font-families: Georgia, serif;
+// $main-font-families: 'DIN Alternate', 'DIN', 'Barlow', sans-serif;
+// $main-font-families: 'Saira Condensed', 'Oswald', sans-serif;
+$main-font-families: 'DIN', 'Barlow', sans-serif;
+
 // Line-Height
 $base-line-height: 1.1;
 $header-line-height: 1.25;
@@ -56,8 +63,7 @@ body {
     overflow-y: scroll;
     font-size: $base-font-size * 1.1;
     line-height: $base-line-height * 1.1;
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
 
     @media #{$mq-medium} {
         font-size: $base-font-size*1.2;
@@ -106,15 +112,13 @@ main {
 }
 
 a {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     color: $midnight-blue;
     text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    // font-family: FreeSans, sans-serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-weight: bold;
     font-style: normal;
     color: $heading-gray;
@@ -122,22 +126,19 @@ h1, h2, h3, h4, h5, h6 {
 
 p, li {
     color: $text-color;
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     text-align: justify;
 }
 
 strong {
     font-style: normal;
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-weight: bold;
 }
 
 em {
     font-style: normal;
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-style: italic;
 }
 
@@ -157,21 +158,18 @@ pre {
 }
 
 th {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-weight: bold;
     color: $text-color;
 }
 
 td {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     color: $text-color;
 }
 
 .footnotes ol li {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-size: 0.8em;
 }
 
@@ -295,8 +293,7 @@ nav li {
 nav a {
     color: $text-color;
     padding: .25em .63em;
-    // font-family: FreeSans, sans-serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-size: 1.2em;
     display: block;
 }
@@ -360,8 +357,7 @@ nav li:hover {
 .myname a {
     color: black;
     text-decoration: none;
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-style: italic;
     font-weight: bold;
 }
@@ -398,8 +394,7 @@ nav li:hover {
 
     a {
         color: $heading-gray;
-        // font-family: FreeSans, sans-serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
     }
 }
 
@@ -414,8 +409,7 @@ nav li:hover {
 }
 
 em.taxonomy-emph {
-    // font-family: FreeSans, sans-serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-style: oblique;
 }
 
@@ -455,8 +449,7 @@ em.taxonomy-emph {
 
 .pagination {
     list-style-type: none;
-    // font-family: FreeSans, sans-serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     display: flex;
     justify-content: center;
     margin: 1em;
@@ -520,8 +513,7 @@ em.taxonomy-emph {
     }
 
     ul, ol {
-        // font-family: FreeSans, sans-serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
         margin-top: 0;
     }
     li {
@@ -534,16 +526,14 @@ em.taxonomy-emph {
     margin: 0 0 1em 0;
 
     .what {
-        // font-family: FreeSans, serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
         text-align: left;
         font-size: 1.0em;
         color: $text-color;
     }
 
     .resume-entry-data {
-        // font-family: FreeSans, serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
         text-align: left;
         font-size: 0.8em;
         color: $very-light-text;
@@ -557,8 +547,7 @@ em.taxonomy-emph {
     }
 
     p, ul, ol, li {
-        // font-family: FreeSerif, serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
         color: $light-text;
         text-align: left;
         font-size: 0.9em;
@@ -566,8 +555,7 @@ em.taxonomy-emph {
 }
 
 p.resume-subcategory {
-    // font-family: FreeSans, sans-serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-size: 1.4em;
     text-decoration: underline;
     padding: 0 0 .3em 0;
@@ -601,8 +589,7 @@ p.resume-subcategory {
                 white-space: nowrap;
                 color: #3f444d;
                 font-size: 1em;
-                // font-family: FreeSans, sans-serif;
-                font-family: Georgia, serif;
+                font-family: $main-font-families;
 
                 i {
                     font-size: 2em;
@@ -637,8 +624,7 @@ p.resume-subcategory {
 
 
     a {
-        // font-family: FreeSans, sans-serif;
-        font-family: Georgia, serif;
+        font-family: $main-font-families;
         font-weight: bold;
         font-size: 1em;
         color: $contactlinks-text-color;
@@ -678,15 +664,13 @@ p.resume-subcategory {
 // General
 
 blockquote {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-size: .9em;
     color: $text-color;
 }
 
 cite {
-    // font-family: FreeSerif, serif;
-    font-family: Georgia, serif;
+    font-family: $main-font-families;
     font-style: italic;
 }
 

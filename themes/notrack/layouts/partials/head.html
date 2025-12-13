@@ -1,6 +1,7 @@
 
 <head>
     <title>{{ .Site.Title }} {{ with .Title }}- {{ . }} {{ end }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;700&family=Oswald:wght@400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ "css/fonts.css" | relURL }}">
     <link rel="stylesheet" type="text/css" href="{{ "css/fontawesome.css" | relURL }}">
     {{ $options := dict "transpiler" "libsass" "targetPath" "css/styles.css" }}

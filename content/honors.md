@@ -85,13 +85,13 @@ Beijing National Science Foundation, Youth Program
 
 <ul>
 <li>
-Program Committee of ICDE, SIGKDD, AAAI
+Program Committee of ICDE, WWW, AAAI, IJCAI, SIGKDD
 </li>
 <li>
-Conference Reviewer of ICML, NeurIPS, ICLR, WWW
+Conference Reviewer of ICML, NeurIPS, ICLR
 </li>
 <li>
-Journal Reviewer of TKDE, TNNLS, TKDD
+Journal Reviewer of TKDE, SCIS, TNNLS, TKDD, DSE
 </li>
 </ul>
 

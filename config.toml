@@ -7,7 +7,7 @@ paginate = 4
 
 [params]
   author = "Fangcheng Fu"
-  siteHeading = "Fangcheng Fu" # defaults to author
+  siteHeading = "Fangcheng Fu (符芳诚)" # defaults to author
   favicon = "img/icon.png" # Adds a small icon next to the page title in a tab
   showBlogLatest = false
   showTaxonomyLinks = false

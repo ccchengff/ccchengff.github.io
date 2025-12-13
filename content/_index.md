@@ -39,7 +39,7 @@ Fangcheng Fu is a tenure-track Associate Professor at the <a href="https://sai.s
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning algorithms and systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p>
@@ -67,7 +67,7 @@ My research generally focuses on how to make machine learning (ML) and artificia
 
 <ul>
 <li>
-Developing <b>efficient and robust distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC) training and inference.
+Developing <b>efficient and reliable distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC) training and inference.
 </li>
 <li>
 Building <b>high-performance and privacy-preserving data processing and analytic systems</b>, aiming to process large-scale data efficiently and securely.
@@ -82,61 +82,183 @@ Feel free to reach out if you are interested in working together on these topics
 
 <p><h2>News</h2></p>
 
-<p>
-🎉 Nov 2025 &emsp; 
-One paper accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
-<br>
-🎉 Aug 2025 &emsp; 
-One paper accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
-<br>
-🎉 June 2025 &emsp; 
-One paper accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
-<br>
-🎉 June 2025 &emsp; 
-One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
-<br>
-🎉 May 2025 &emsp; 
-One paper accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
-<br>
-🎉 April 2025 &emsp; 
-One paper accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
-<br>
-🎉 April 2025 &emsp; 
-One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
-<br>
-🎉 Feb 2025 &emsp; 
-One paper accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
-<br>
-🎉 Feb 2025 &emsp; 
-Two papers accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
-<br>
-🎉 Jan 2025 &emsp; 
-Two papers accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
-<br>
-🎉 Jan 2025 &emsp; 
-One paper accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
-<br>
-🏆 Dec 2024 &emsp; 
-Honored to be awarded the <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jCti6w"><i>2024 ACM China Doctoral Dissertation Award</i></a> (Top 2 in China)
-<br>
-🎉 Nov 2024 &emsp; 
-One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
-<br>
-<!-- 🏆 Sep 2024 &emsp; 
-Honored to be awarded the <a href="https://mp.weixin.qq.com/s/ssXyel3jNogGhV9McNMGyg"><i>2024 ACM SIGMOD China Doctoral Dissertation Award</i></a>
-<br> -->
-🎉 Sep 2024 &emsp; 
-Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
-<br>
-🏆 Aug 2024 &emsp; 
-Honored to be awarded the <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCDB/hyxw/2024-08-13/829394.shtml"><i>Best Paper Award in NDBC 2024</i></a>
-<br>
-🎉 Aug 2024 &emsp; 
-One paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
-<br>
-👏 Aug 2024 &emsp; 
-My first personal website online!
-</p>
+<style>
+  .news-table { width: 100%; border-collapse: collapse; border: none; }
+  .news-table td { padding-bottom: 5px; vertical-align: top; }
+  .news-date { width: 150px; white-space: nowrap; }
+  /* Button Style */
+  .show-more-btn {
+      background: none;
+      border: 1px solid #ccc;
+      color: #555;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      margin-top: 10px;
+      transition: all 0.2s;
+      display: none; /* Hidden by default, JS will show it if needed */
+  }
+  .show-more-btn:hover {
+      border-color: #004098;
+      color: #004098;
+  }
+</style>
+
+<table class="news-table" id="news-table">
+<tbody>
+<tr>
+  <td class="news-date">🎉 Nov 2025</td>
+  <td>
+  One paper accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Aug 2025</td>
+  <td>
+  One paper accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 June 2025</td>
+  <td>
+  One paper accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 June 2025</td>
+  <td>
+  One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 May 2025</td>
+  <td>
+  One paper accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 April 2025</td>
+  <td>
+  One paper accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 April 2025</td>
+  <td>
+  One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Feb 2025</td>
+  <td>
+  One paper accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Feb 2025</td>
+  <td>
+  Two papers accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Jan 2025</td>
+  <td>
+  Two papers accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Jan 2025</td>
+  <td>
+  One paper accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🏆 Dec 2024</td>
+  <td>
+  Honored to be awarded the <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jCti6w"><i>2024 ACM China Doctoral Dissertation Award</i></a> (Top 2 in China)
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Nov 2024</td>
+  <td>
+  One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  </td>
+</tr>
+<!-- <tr>
+  <td class="news-date">🏆 Sep 2024</td>
+  <td>
+  Honored to be awarded the <a href="https://mp.weixin.qq.com/s/ssXyel3jNogGhV9McNMGyg"><i>2024 ACM SIGMOD China Doctoral Dissertation Award</i></a>
+  </td>
+</tr> -->
+<tr>
+  <td class="news-date">🎉 Sep 2024</td>
+  <td>
+  Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🏆 Aug 2024</td>
+  <td>
+  Honored to be awarded the <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCDB/hyxw/2024-08-13/829394.shtml"><i>Best Paper Award in NDBC 2024</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🏆 Aug 2024</td>
+  <td>
+  One paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">👏 Aug 2024</td>
+  <td>
+  My first personal website online!
+  </td>
+</tr>
+</tbody>
+</table>
+
+<button id="show-more-btn" class="show-more-btn" onclick="toggleNews()">Show More <i class="fas fa-chevron-down"></i></button>
+
+<script>
+  function toggleNews() {
+    const rows = document.querySelectorAll('#news-table tr');
+    const btn = document.getElementById('show-more-btn');
+    const isExpanded = btn.getAttribute('data-expanded') === 'true';
+
+    if (!isExpanded) {
+      // Show all rows
+      rows.forEach(row => row.style.display = 'table-row');
+      btn.innerHTML = 'Show Less <i class="fas fa-chevron-up"></i>';
+      btn.setAttribute('data-expanded', 'true');
+    } else {
+      // Hide rows after index 9 (10th item)
+      rows.forEach((row, index) => {
+        if (index >= 10) row.style.display = 'none';
+      });
+      btn.innerHTML = 'Show More <i class="fas fa-chevron-down"></i>';
+      btn.setAttribute('data-expanded', 'false');
+    }
+  }
+
+  // Initialize: Hide rows > 10 on page load
+  window.addEventListener('DOMContentLoaded', () => {
+    const rows = document.querySelectorAll('#news-table tr');
+    const btn = document.getElementById('show-more-btn');
+    
+    if (rows.length > 10) {
+      // If we have more than 10 items, hide the extras and show the button
+      rows.forEach((row, index) => {
+        if (index >= 10) row.style.display = 'none';
+      });
+      btn.style.display = 'inline-block';
+    } else {
+      // If 10 or fewer, hide the button entirely
+      btn.style.display = 'none';
+    }
+  });
+</script>
+
 
 
 {{< /rawhtml >}}

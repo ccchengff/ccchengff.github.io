@@ -31,6 +31,26 @@ Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Sheng Lin, Hao Ge, Xuanyu Wang, Jia
 <b>SIGMOD 2026</b>
 </li>
 
+<li>
+<i>
+Elastor: Elastic and Efficient Model Partitioning and Checkpointing for Fault-tolerant Distributed Training
+</i>
+<br>
+Xuanyu Wang, <b>Fangcheng Fu</b><sup>#</sup>, Haoyang Li, Hao Ge, Sheng Lin , Jiawen Niu, Bin Cui<sup>#</sup>
+<br>
+<b>PPoPP 2026</b>
+</li>
+
+<li>
+<i>
+Retrieval-Augmented Generation for AI-Generated Content: A Survey
+</i>
+<br>
+Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, <b>Fangcheng Fu</b><sup>#</sup>, Ling Yang, Wentao Zhang<sup>#</sup>, Jie Jiang, Bin Cui<sup>#</sup>
+<br>
+<b>Data Science and Engineering 2026 (To appear)</b>
+</li>
+
 </ul>
 
 <p><h2>2025</h2></p>
