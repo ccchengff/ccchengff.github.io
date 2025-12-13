@@ -39,11 +39,11 @@ Fangcheng Fu is a tenure-track Associate Professor at the <a href="https://sai.s
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program management committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p>
-符芳诚，上海交通大学人工智能学院长聘教轨副教授、博士生导师，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文40余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖、机器之心「AI中国」年度十大开源事件等奖项荣誉。
+符芳诚，上海交通大学人工智能学院长聘教轨副教授、博士生导师，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文40余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖等奖项荣誉。
 </p>
 
 <p style="color:Red">
@@ -110,67 +110,67 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🎉 Nov 2025</td>
   <td>
-  One paper accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
+  Our paper on the fault-recovery of distributed training is accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Aug 2025</td>
   <td>
-  One paper accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
+  <a href="https://arxiv.org/abs/2412.07894">Hydraulis</a> is accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 June 2025</td>
   <td>
-  One paper accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html">AdaSpa</a> is accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 June 2025</td>
   <td>
-  One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+  <a href="https://www.vldb.org/pvldb/vol18/p3559-zhou.pdf">PS-MI</a> is accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 May 2025</td>
   <td>
-  One paper accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
+  <a href="https://arxiv.org/abs/2502.00722">Our paper on LLM Serving over Heterogeneous GPUs</a> is accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 April 2025</td>
   <td>
-  One paper accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3718958.3754352">ByteScale</a> is accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 April 2025</td>
   <td>
-  One paper accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+  <a href="https://arxiv.org/abs/2509.01193">LobRA</a> is accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Feb 2025</td>
   <td>
-  One paper accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
+  <a href="https://arxiv.org/abs/2502.09334">ThunderServe</a> is accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Feb 2025</td>
   <td>
-  Two papers accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  <a href="https://arxiv.org/abs/2410.13333">Malleus</a> and <a href="https://arxiv.org/abs/2407.12820">PQCache</a> are accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2025</td>
   <td>
-  Two papers accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
+  <a href="https://arxiv.org/abs/2412.01523">FlexSP</a> and <a href="https://arxiv.org/abs/2409.03365">Spindle</a> are accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2025</td>
   <td>
-  One paper accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
+  <a href="https://openreview.net/forum?id=1qP3lsatCR">NetMoE</a> is accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
   </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🎉 Nov 2024</td>
   <td>
-  One paper accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  <a href="https://arxiv.org/abs/2407.12117">Memo</a> is accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
   </td>
 </tr>
 <!-- <tr>
@@ -194,7 +194,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🎉 Sep 2024</td>
   <td>
-  Two papers accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
+  <a href="https://dl.acm.org/doi/10.5555/3737916.3739950">LoRA-Inlaid</a> and <a href="https://dl.acm.org/doi/10.5555/3737916.3739632">LSH-MoE</a> are accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
   </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🏆 Aug 2024</td>
   <td>
-  One paper accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3694715.3695969">HotSPa</a> is accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
   </td>
 </tr>
 <tr>

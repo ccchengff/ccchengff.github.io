@@ -10,7 +10,7 @@ menu:
 {{< rawhtml >}}
 
 <style>
-    ul li { margin-bottom: 15px; }
+    ul li { margin-bottom: 10px; }
 </style>
 
 I have served as the designer and/or main developer of the following system projects.
@@ -22,33 +22,27 @@ I have served as the designer and/or main developer of the following system proj
 </figure>
 
 <p>
-<a href="https://github.com/PKU-DAIR/Hetu">Hetu</a> is a high-performance distributed deep learning system targeting trillions of parameters DL model training, developed and open-sourced by <a href="https://cuibinpku.github.io/">DAIR Lab</a> at Peking University. It takes account of both high availability in industry and innovation in academia, which has a number of advanced characteristics:
-
-<ul>
-<li>
-Applicability. DL model definition with standard dataflow graph; many basic CPU and GPU operators; efficient implementation of more than plenty of DL models and at least popular 10 ML algorithms.
-</li>
-
-<li>
-Efficiency. Achieve at least 30% speedup compared to TensorFlow on DNN, CNN, RNN benchmarks.
-</li>
-
-<li>
-Flexibility. Supporting various parallel training protocols and distributed communication architectures, such as Data/Model/Pipeline parallel; Parameter server & AllReduce.
-</li>
-
-<li>
-Scalability. Deployment on more than 100 computation nodes; Training giant models with trillions of model parameters, e.g., Criteo Kaggle, Open Graph Benchmark.
-</li>
-
-<li>
-Agility. Automatically ML pipeline: feature engineering, model selection, hyperparameter search.
-</li>
-</ul>
+<a href="https://github.com/PKU-DAIR/Hetu">Hetu</a> is a high-performance distributed deep learning system targeting large-scale DL model training, developed and open-sourced by <a href="https://cuibinpku.github.io/">DAIR Lab</a> at Peking University. Attributed to our innovative HSPMD tensor annotations, Hetu flexibly supports the automatic and efficient deployment and training of various DL models (e.g., NLP, vision, multi-modal) over distributed GPU servers. Hetu is further optimized for complex training scenarios where heterogeneity and dynamicity exist, provisioing significant speedup compared to Megatron and DeepSpeed. Discover more in our <a href="https://arxiv.org/pdf/2504.20490">white paper</a>.
 </p>
 
 <p>
-We welcome everyone interested in machine learning or graph computing to contribute codes, create issues or pull requests. Please refer to <a href="https://github.com/PKU-DAIR/Hetu/blob/main/CONTRIBUTING.md">Hetu Contribution Guide</a> for more details.
+We welcome everyone interested in the design, development, and optimization of DL systems to contribute codes, create issues or pull requests. Please refer to <a href="https://github.com/PKU-DAIR/Hetu/blob/main/CONTRIBUTING.md">Hetu Contribution Guide</a> for more details.
+</p>
+
+<br>
+
+<p><h2>Galvatron</h2></p>
+
+<figure align="center">
+<img src='../img/Galvatron.png' alt='galvatron' style="width:20em;"/>
+</figure>
+
+<p>
+<a href="https://github.com/PKU-DAIR/Hetu-Galvatron">Galvatron</a> is a PyTorch-native, open-source framework for the efficient distributed training of large-scale Transformer models, with specialized optimizations for automatic hybrid parallelism strategies. Given a Transformer model, Galvatron first profiles and analyzes the model execution workload characteristics, creating a precise cost model. Then, Galvatron uses decision trees and dynamic programming to automatically deduce the best combination of parallelism dimensions for each model layer, covering data, tensor, pipeline, sharded data, sequence parallelism, and recomputation. Finally, Galvatron leverages PyTorch features like FSDP and checkpointing to deploy and train the model, seamlessly supporting various accelerators like NVIDIA GPUs and Ascend NPUs. As an open-source project with comprehensive documentation, Galvatron is designed to be user-friendly, enabling easy integration with minimal code changes. Discover more in our <a href="https://arxiv.org/pdf/2504.21411">white paper</a>.
+</p>
+
+<p>
+We welcome everyone interested in efficient and ease-of-use training of large-scale Transformer models to contribute codes, create issues or pull requests. Please refer to <a href="https://github.com/PKU-DAIR/Hetu-Galvatron/blob/main/CONTRIBUTING.md">Galvatron Contribution Guide</a> for more details.
 </p>
 
 <br>
