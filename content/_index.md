@@ -125,12 +125,12 @@ Feel free to reach out if you are interested in working together on these topics
   <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html">AdaSpa</a> is accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
   </td>
 </tr>
-<tr>
+<!-- <tr>
   <td class="news-date">🎉 June 2025</td>
   <td>
   <a href="https://www.vldb.org/pvldb/vol18/p3559-zhou.pdf">PS-MI</a> is accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
   </td>
-</tr>
+</tr> -->
 <tr>
   <td class="news-date">🎉 May 2025</td>
   <td>
