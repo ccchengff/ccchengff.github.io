@@ -108,9 +108,27 @@ Feel free to reach out if you are interested in working together on these topics
 <table class="news-table" id="news-table">
 <tbody>
 <tr>
+  <td class="news-date">🎉 Jan 2026</td>
+  <td>
+  Two papers are accepted to <a href="https://mlsys.org/Conferences/2026"><i>MLSys 2026</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Jan 2026</td>
+  <td>
+  <a href="https://arxiv.org/abs/2506.04203">Cascadia</a> is accepted to <a href="https://iclr.cc/Conferences/2026"><i>ICLR 2026</i></a>
+  </td>
+</tr>
+<tr>
+  <td class="news-date">🎉 Jan 2026</td>
+  <td>
+  Our paper on accelerating distributed MoE training is accepted to <a href="https://www.asplos-conference.org/asplos2026"><i>ASPLOS 2026</i></a>
+  </td>
+</tr>
+<tr>
   <td class="news-date">🎉 Nov 2025</td>
   <td>
-  Our paper on the fault-recovery of distributed training is accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3774934.3786445">Elastor</a> is accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
   </td>
 </tr>
 <tr>

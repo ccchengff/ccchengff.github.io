@@ -33,12 +33,52 @@ Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Sheng Lin, Hao Ge, Xuanyu Wang, Jia
 
 <li>
 <i>
+LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training
+</i>
+<br>
+Xinyi Liu, Yujie Wang, <b>Fangcheng Fu</b><sup>#</sup>, Xuefeng Xiao, Huixia Li, Jiashi Li, Bin Cui<sup>#</sup>
+<br>
+<b>ASPLOS 2026</b>
+</li>
+
+<li>
+<i>
 Elastor: Elastic and Efficient Model Partitioning and Checkpointing for Fault-tolerant Distributed Training
 </i>
 <br>
 Xuanyu Wang, <b>Fangcheng Fu</b><sup>#</sup>, Haoyang Li, Hao Ge, Sheng Lin , Jiawen Niu, Bin Cui<sup>#</sup>
 <br>
 <b>PPoPP 2026</b>
+</li>
+
+<li>
+<i>
+BOute: Cost-Efficient LLM Serving with Heterogeneous LLMs and GPUs via Multi-Objective Bayesian Optimization
+</i>
+<br>
+Youhe Jiang, <b>Fangcheng Fu</b><sup>#</sup>, Eiko Yoneki<sup>#</sup>
+<br>
+<b>MLSys 2026</b>
+</li>
+
+<li>
+<i>
+HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware
+</i>
+<br>
+Ran Yan, Youhe Jiang, Xiaonan Nie, <b>Fangcheng Fu</b>, Bin Cui, Binhang Yuan
+<br>
+<b>MLSys 2026</b>
+</li>
+
+<li>
+<i>
+Cascadia: An Efficient Cascade Serving System for Large Language Models
+</i>
+<br>
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Wanru Zhao, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, Binhang Yuan
+<br>
+<b>MLSys 2026</b>
 </li>
 
 <li>
@@ -252,7 +292,7 @@ Qinbo Zhang, Xiao Yan, Yukai Ding, <b>Fangcheng Fu</b>, Chuang Hu, Quanqing Xu, 
 Improving Low-Resource Sequence Labeling with Knowledge Fusion and Contextual Label Explanations
 </i>
 <br>
-Peichao Lai, Jiaxin Gan, Feiyang Ye, Wentao Zhang, Fangcheng Fu, Yilei Wang, Bin Cui
+Peichao Lai, Jiaxin Gan, Feiyang Ye, Wentao Zhang, <b>Fangcheng Fu</b>, Yilei Wang, Bin Cui
 <br>
 <b>EMNLP 2025</b>
 </li>
