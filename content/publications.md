@@ -88,7 +88,7 @@ Retrieval-Augmented Generation for AI-Generated Content: A Survey
 <br>
 Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, <b>Fangcheng Fu</b><sup>#</sup>, Ling Yang, Wentao Zhang<sup>#</sup>, Jie Jiang, Bin Cui<sup>#</sup>
 <br>
-<b>Data Science and Engineering 2026 (To appear)</b>
+<b>Data Science and Engineering 11:1-29 (2026)</b>
 </li>
 
 </ul>
@@ -254,7 +254,7 @@ Detecting and Analyzing Motifs in Large-scale Online Transaction Networks
 <br>
 Jiawei Jiang, Hao Huang, Zhigao Zheng, Yi Wei, <b>Fangcheng Fu</b>, Xiaosen Li, Bin Cui
 <br>
-<b>TKDE 37(2): 584-596 (2025)</b>
+<b>TKDE 37(2):584-596 (2025)</b>
 </li>
 
 <li>
@@ -340,7 +340,7 @@ ProjPert: Projection-based Perturbation for Label Protection in Split Learning b
 <br>
 <b>Fangcheng Fu</b>, Xuanyu Wang, Jiawei Jiang, Huanran Xue, and Bin Cui
 <br>
-<b>TKDE 36(7): 3417-3428 (2024)</b>
+<b>TKDE 36(7):3417-3428 (2024)</b>
 </li>
 
 <li>
@@ -350,7 +350,7 @@ Improving Automatic Parallel Training via Balanced Memory Workload Optimization
 <br>
 Yujie Wang, Youhe Jiang, Xupeng Miao<sup>#</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui<sup>#</sup>
 <br>
-<b>TKDE 36(8): 3906-3920 (2024)</b>
+<b>TKDE 36(8):3906-3920 (2024)</b>
 </li>
 
 <li>
@@ -427,7 +427,7 @@ P2CG: A Privacy Preserving Collaborative Graph Neural Network Training Framework
 <br>
 Xupeng Miao, Wentao Zhang, Yuezihan Jiang, <b>Fangcheng Fu</b>, Yingxia Shao, Lei Chen, Yangyu Tao, Gang Cao, Bin Cui
 <br>
-<b>VLDB Journal 32(4): 717-736 (2023)</b>
+<b>VLDB Journal 32(4):717-736 (2023)</b>
 </li>
 
 <li>
@@ -535,7 +535,7 @@ SKCompress: Compressing Sparse and Nonuniform Gradient in Distributed Machine Le
 <br>
 Jiawei Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Tong Yang, Yingxia Shao, Bin Cui
 <br>
-<b>VLDB Journal 29(5): 945-972 (2020)</b>
+<b>VLDB Journal 29(5):945-972 (2020)</b>
 </li>
 
 </ul>

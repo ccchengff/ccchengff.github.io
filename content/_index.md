@@ -39,11 +39,11 @@ Fangcheng Fu is a tenure-track Associate Professor at the <a href="https://sai.s
 </p>
 
 <p>
-Fangcheng has broad interests in distributed machine/deep learning systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, SOSP, ASPLOS, ICML, NeurIPS, and TKDE. He is the designer and/or program management committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
+Fangcheng has broad interests in distributed machine/deep learning systems as well as big data processing and analytic systems. He has published more than 40 papers in top academic conferences and journals such as SIGMOD, VLDB, OSDI, SOSP, ASPLOS, ICML, ICLR, and TKDE. He is the designer and/or program management committee (PMC) member for several system projects, including <a href="https://github.com/PKU-DAIR/Hetu">Hetu</a>, PowerFL, and <a href="https://github.com/Angel-ML/angel">Angel</a>. His works in these system projects have been featured in several billion- or even trillion-scale machine/deep learning applications in industries.
 </p>
 
 <p>
-符芳诚，上海交通大学人工智能学院长聘教轨副教授、博士生导师，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、SOSP、ASPLOS、ICML、NeurIPS、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文40余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖等奖项荣誉。
+符芳诚，上海交通大学人工智能学院长聘教轨副教授、博士生导师，在此之前，他曾在北京大学计算机学院任博雅博士后研究员，并于2018年和2023年在北京大学分别获得本科和博士学位，导师为崔斌教授。他专注于机器/深度学习系统、人工智能、数据管理领域的科学问题研究，相关研究工作在 SIGMOD、VLDB、OSDI、SOSP、ASPLOS、ICML、ICLR、TKDE 等 CCF-A 类国际顶级学术会议/期刊上发表论文40余篇，并已获得9项国家发明专利授权。他领导或参与了数个系统框架的设计与研发，如分布式深度学习系统河图（Hetu）、安全联合计算框架 PowerFL、大数据分析和机器学习系统Angel等，通过这些系统项目，他的相关研究成果已在产业界的多个应用场景中落地。此外，他入选了中国博士后创新人才支持计划（博新计划），并获得了ACM中国优秀博士论文奖（全国奖）、世界互联网大会领先科技奖、国际测试委员会百大开源成果奖等奖项荣誉。
 </p>
 
 <p style="color:Red">
@@ -108,9 +108,15 @@ Feel free to reach out if you are interested in working together on these topics
 <table class="news-table" id="news-table">
 <tbody>
 <tr>
+  <td class="news-date">🎉 Mar 2026</td>
+  <td>
+  <a href="https://arxiv.org/abs/2504.20490">Hetu v2</a> is accepted to <a href="https://www.usenix.org/conference/osdi26"><i>OSDI 2026</i></a>
+  </td>
+</tr>
+<tr>
   <td class="news-date">🎉 Jan 2026</td>
   <td>
-  Two papers are accepted to <a href="https://mlsys.org/Conferences/2026"><i>MLSys 2026</i></a>
+  <a href="https://arxiv.org/abs/2602.10729">Boute</a> and <a href="https://arxiv.org/abs/2409.01143">HexiScale</a> are accepted to <a href="https://mlsys.org/Conferences/2026"><i>MLSys 2026</i></a>
   </td>
 </tr>
 <tr>
