@@ -33,6 +33,16 @@ Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Sheng Lin, Hao Ge, Xuanyu Wang, Jia
 
 <li>
 <i>
+HSPMD: Hierarchical and Heterogeneous SPMD for Distributed DL Training
+</i>
+<br>
+Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yuming Zhou, Xupeng Miao, Bin Cui<sup>#</sup>
+<br>
+<b>OSDI 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
 LAER-MoE: Load-Adaptive Expert Re-layout for Efficient Mixture-of-Experts Training
 </i>
 <br>
@@ -79,6 +89,76 @@ Cascadia: An Efficient Cascade Serving System for Large Language Models
 Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Wanru Zhao, Stephan Rabanser, Jintao Zhang, Nicholas D. Lane, Binhang Yuan
 <br>
 <b>ICLR 2026</b>
+</li>
+
+<li>
+<i>
+Efficient Multi-round LLM Inference over Disaggregated Serving
+</i>
+<br>
+Wenhao He, Youhe Jiang, Penghao Zhao, Quanqing Xu, Eiko Yoneki, Bin Cui, <b>Fangcheng Fu</b><sup>#</sup>
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Long Video Generation
+</i>
+<br>
+Yifei Xia, <b>Fangcheng Fu</b><sup>#</sup>, Hao Yuan, Suhan Ling, Xupeng Miao, Huixia Li, Yuxi Ren, Xin Xia, Xuefeng Xiao, Bin Cui<sup>#</sup>
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration
+</i>
+<br>
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Taiyi Wang, Guoliang He, Eiko Yoneki
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning
+</i>
+<br>
+Yujie Wang, Siwei Chen, Longzan Luo, Xinyi Liu, Xupeng Miao, <b>Fangcheng Fu</b>, Bin Cui
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling
+</i>
+<br>
+Xiaodong Ji, Hailin Zhang, <b>Fangcheng Fu</b>, Bin Cui
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling
+</i>
+<br>
+Youhe Jiang, Wenshuang Li, You Peng, Jintao Zhang, Ran Yan, Jianfei Chen, Xu Han, <b>Fangcheng Fu</b>, Binhang Yuan
+<br>
+<b>ICML 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
+</i>
+<br>
+Haoyu Zheng, Yongqiang Zhang, <b>Fangcheng Fu</b>, Xiaokai Zhou, Hao Luo, Hongchao Zhu, Yuanyuan Zhu, Hao Wang, Xiao Yan, Jiawei Jiang
+<br>
+<b>ICML 2026</b> (To Appear)
 </li>
 
 <li>

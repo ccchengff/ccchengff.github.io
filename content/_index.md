@@ -11,7 +11,7 @@ menu:
 
 <div style="float:right;">
 <figure>
-    <img src='img/ffc.jpeg' alt='me' style="width:11em;"/>
+    <img src='img/ffc.JPG' alt='me' style="width:10em;"/>
     <figcaption>
     <b>Fangcheng Fu</b>
     <br>
@@ -67,10 +67,10 @@ My research generally focuses on how to make machine learning (ML) and artificia
 
 <ul>
 <li>
-Developing <b>efficient and reliable distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC) training and inference.
+Developing <b>efficient and scalable distributed machine/deep learning systems</b> to bring down the cost of large-scale models (e.g., LLM, AIGC) training and inference.
 </li>
 <li>
-Building <b>high-performance and privacy-preserving data processing and analytic systems</b>, aiming to process large-scale data efficiently and securely.
+Building <b>high-performance data processing and analytic systems</b>, aiming to process large-scale data efficiently and robustly.
 </li>
 </ul>
 
@@ -108,93 +108,93 @@ Feel free to reach out if you are interested in working together on these topics
 <table class="news-table" id="news-table">
 <tbody>
 <tr>
+  <td class="news-date">🎉 May 2026</td>
+  <td>
+  Seven papers have been accepted to <a href="https://icml.cc/Conferences/2026"><i>ICML 2026</i></a>
+  </td>
+</tr>
+<tr>
   <td class="news-date">🎉 Mar 2026</td>
   <td>
-  <a href="https://arxiv.org/abs/2504.20490">Hetu v2</a> is accepted to <a href="https://www.usenix.org/conference/osdi26"><i>OSDI 2026</i></a>
+  <a href="https://arxiv.org/abs/2504.20490">Hetu v2</a> has been accepted to <a href="https://www.usenix.org/conference/osdi26"><i>OSDI 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2026</td>
   <td>
-  <a href="https://arxiv.org/abs/2602.10729">Boute</a> and <a href="https://arxiv.org/abs/2409.01143">HexiScale</a> are accepted to <a href="https://mlsys.org/Conferences/2026"><i>MLSys 2026</i></a>
+  <a href="https://arxiv.org/abs/2602.10729">Boute</a> and <a href="https://arxiv.org/abs/2409.01143">HexiScale</a> have been accepted to <a href="https://mlsys.org/Conferences/2026"><i>MLSys 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2026</td>
   <td>
-  <a href="https://arxiv.org/abs/2506.04203">Cascadia</a> is accepted to <a href="https://iclr.cc/Conferences/2026"><i>ICLR 2026</i></a>
+  <a href="https://arxiv.org/abs/2506.04203">Cascadia</a> has been accepted to <a href="https://iclr.cc/Conferences/2026"><i>ICLR 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2026</td>
   <td>
-  Our paper on accelerating distributed MoE training is accepted to <a href="https://www.asplos-conference.org/asplos2026"><i>ASPLOS 2026</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3779212.3790180">LAER-MoE</a> has been accepted to <a href="https://www.asplos-conference.org/asplos2026"><i>ASPLOS 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Nov 2025</td>
   <td>
-  <a href="https://dl.acm.org/doi/10.1145/3774934.3786445">Elastor</a> is accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3774934.3786445">Elastor</a> has been accepted to <a href="https://ppopp26.sigplan.org/"><i>PPoPP 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Aug 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2412.07894">Hydraulis</a> is accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
+  <a href="https://arxiv.org/abs/2412.07894">Hydraulis</a> has been accepted to <a href="https://2026.sigmod.org/index.shtml"><i>SIGMOD 2026</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 June 2025</td>
   <td>
-  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html">AdaSpa</a> is accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Xia_Training-free_and_Adaptive_Sparse_Attention_for_Efficient_Long_Video_Generation_ICCV_2025_paper.html">AdaSpa</a> has been accepted to <a href="https://iccv.thecvf.com/Conferences/2025"><i>ICCV 2025</i></a>
   </td>
 </tr>
-<!-- <tr>
-  <td class="news-date">🎉 June 2025</td>
-  <td>
-  <a href="https://www.vldb.org/pvldb/vol18/p3559-zhou.pdf">PS-MI</a> is accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
-  </td>
-</tr> -->
 <tr>
   <td class="news-date">🎉 May 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2502.00722">Our paper on LLM Serving over Heterogeneous GPUs</a> is accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
+  <a href="https://arxiv.org/abs/2502.00722">Our paper on LLM Serving over Heterogeneous GPUs</a> has been accepted to <a href="https://icml.cc/Conferences/2025"><i>ICML 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 April 2025</td>
   <td>
-  <a href="https://dl.acm.org/doi/10.1145/3718958.3754352">ByteScale</a> is accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3718958.3754352">ByteScale</a> has been accepted to <a href="https://conferences.sigcomm.org/sigcomm/2025/"><i>SIGCOMM 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 April 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2509.01193">LobRA</a> is accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
+  <a href="https://arxiv.org/abs/2509.01193">LobRA</a> has been accepted to <a href="https://vldb.org/2025/"><i>VLDB 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Feb 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2502.09334">ThunderServe</a> is accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
+  <a href="https://arxiv.org/abs/2502.09334">ThunderServe</a> has been accepted to <a href="https://mlsys.org/Conferences/2025"><i>MLSys 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Feb 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2410.13333">Malleus</a> and <a href="https://arxiv.org/abs/2407.12820">PQCache</a> are accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  <a href="https://arxiv.org/abs/2410.13333">Malleus</a> and <a href="https://arxiv.org/abs/2407.12820">PQCache</a> have been accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2025</td>
   <td>
-  <a href="https://arxiv.org/abs/2412.01523">FlexSP</a> and <a href="https://arxiv.org/abs/2409.03365">Spindle</a> are accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
+  <a href="https://arxiv.org/abs/2412.01523">FlexSP</a> and <a href="https://arxiv.org/abs/2409.03365">Spindle</a> have been accepted to <a href="https://www.asplos-conference.org/asplos2025/"><i>ASPLOS 2025</i></a>
   </td>
 </tr>
 <tr>
   <td class="news-date">🎉 Jan 2025</td>
   <td>
-  <a href="https://openreview.net/forum?id=1qP3lsatCR">NetMoE</a> is accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
+  <a href="https://openreview.net/forum?id=1qP3lsatCR">NetMoE</a> has been accepted to <a href="https://iclr.cc/Conferences/2025"><i>ICLR 2025</i></a>
   </td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🎉 Nov 2024</td>
   <td>
-  <a href="https://arxiv.org/abs/2407.12117">Memo</a> is accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
+  <a href="https://arxiv.org/abs/2407.12117">Memo</a> has been accepted to <a href="https://2025.sigmod.org/"><i>SIGMOD 2025</i></a>
   </td>
 </tr>
 <!-- <tr>
@@ -218,7 +218,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🎉 Sep 2024</td>
   <td>
-  <a href="https://dl.acm.org/doi/10.5555/3737916.3739950">LoRA-Inlaid</a> and <a href="https://dl.acm.org/doi/10.5555/3737916.3739632">LSH-MoE</a> are accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
+  <a href="https://dl.acm.org/doi/10.5555/3737916.3739950">LoRA-Inlaid</a> and <a href="https://dl.acm.org/doi/10.5555/3737916.3739632">LSH-MoE</a> have been accepted to <a href="https://neurips.cc/Conferences/2024"><i>NeurIPS 2024</i></a>
   </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ Feel free to reach out if you are interested in working together on these topics
 <tr>
   <td class="news-date">🏆 Aug 2024</td>
   <td>
-  <a href="https://dl.acm.org/doi/10.1145/3694715.3695969">HotSPa</a> is accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
+  <a href="https://dl.acm.org/doi/10.1145/3694715.3695969">HotSPa</a> has been accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
   </td>
 </tr>
 <tr>

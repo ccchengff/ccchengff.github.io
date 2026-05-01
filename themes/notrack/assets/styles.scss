@@ -92,23 +92,28 @@ main {
     background-color: white;
 
     @media #{$mq-small} {
-        margin: 0 15%;
+        // margin: 0 15%;
+        margin: 0 6%;
     }
 
     @media #{$mq-medium} {
-        margin: 0 17%;
+        // margin: 0 17%;
+        margin: 0 9%;
     }
 
     @media #{$mq-large} {
-        margin: 0 21%;
+        // margin: 0 21%;
+        margin: 0 12%;
     }
 
     @media #{$mq-xlarge} {
-        margin: 0 24%;
+        // margin: 0 24%;
+        margin: 0 15%;
     }
 
     @media #{$mq-xxlarge} {
-        margin: 0 27%;
+        // margin: 0 27%;
+        margin: 0 18%;
     }
 }
 
