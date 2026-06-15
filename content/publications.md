@@ -17,9 +17,19 @@ menu:
 
 <p><sup>*</sup> indicates equal contribution, <sup>#</sup> indicates corresponding author</p>
 
-<p><h2>2026</h2></p>
+<p><h2>2026 & 2027</h2></p>
 
 <ul>
+
+<li>
+<i>
+StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training
+</i>
+<br>
+Haoyang Li, Sheng Lin, <b>Fangcheng Fu</b><sup>#</sup>, Yuming Zhou, Xiaodong Ji, Yanfeng Zhao, Lefeng Wang, Jie Jiang, Bin Cui<sup>#</sup>
+<br>
+<b>SIGMOD 2027</b>
+</li>
 
 <li>
 <i>

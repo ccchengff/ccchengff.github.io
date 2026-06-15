@@ -108,6 +108,12 @@ Feel free to reach out if you are interested in working together on these topics
 <table class="news-table" id="news-table">
 <tbody>
 <tr>
+  <td class="news-date">🎉 June 2026</td>
+  <td>
+  <a href="https://arxiv.org/abs/2601.12784">StaleFlow</a> has been accepted to <a href="https://2027.sigmod.org/"><i>SIGMOD 2027</i></a>
+  </td>
+</tr>
+<tr>
   <td class="news-date">🎉 May 2026</td>
   <td>
   Seven papers have been accepted to <a href="https://icml.cc/Conferences/2026"><i>ICML 2026</i></a>
@@ -228,7 +234,7 @@ Feel free to reach out if you are interested in working together on these topics
   </td>
 </tr>
 <tr>
-  <td class="news-date">🏆 Aug 2024</td>
+  <td class="news-date">🎉 Aug 2024</td>
   <td>
   <a href="https://dl.acm.org/doi/10.1145/3694715.3695969">HotSPa</a> has been accepted to <a href="https://sigops.org/s/conferences/sosp/2024/index.html"><i>SOSP 2024</i></a>
   </td>
