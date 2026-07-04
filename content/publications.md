@@ -1,5 +1,5 @@
 ---
-title: "Publications and Patents"
+title: "Publications"
 draft: false
 menu:
   main:
@@ -26,9 +26,9 @@ menu:
 StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully Disaggregated RL Post-Training
 </i>
 <br>
-Haoyang Li, Sheng Lin, <b>Fangcheng Fu</b><sup>#</sup>, Yuming Zhou, Xiaodong Ji, Yanfeng Zhao, Lefeng Wang, Jie Jiang, Bin Cui<sup>#</sup>
+Haoyang Li<sup>*</sup>, Sheng Lin<sup>*</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Yuming Zhou, Xiaodong Ji, Yanfeng Zhao, Lefeng Wang, Jie Jiang, Bin Cui<sup>#</sup>
 <br>
-<b>SIGMOD 2027</b>
+<b>SIGMOD 2027</b> (To Appear)
 </li>
 
 <li>
@@ -43,12 +43,22 @@ Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Sheng Lin, Hao Ge, Xuanyu Wang, Jia
 
 <li>
 <i>
-HSPMD: Hierarchical and Heterogeneous SPMD for Distributed DL Training
+Hetu v2: A General and Scalable Deep Learning System with Hierarchical and Heterogeneous Single Program Multiple Data Annotations
 </i>
 <br>
 Haoyang Li, <b>Fangcheng Fu</b><sup>#</sup>, Hao Ge, Sheng Lin, Xuanyu Wang, Jiawen Niu, Yuming Zhou, Xupeng Miao, Bin Cui<sup>#</sup>
 <br>
-<b>OSDI 2026</b> (To Appear)
+<b>OSDI 2026</b> 
+</li>
+
+<li>
+<i>
+Multi-LLM Serving at Production Scale
+</i>
+<br>
+Tianbao Zhou<sup>*</sup>, Yi Wang<sup>*</sup>, Yu Zhou<sup>*</sup>, Zirui Liu<sup>*</sup>, Zhiming Wang, Yebo Peng, Yongfu Wang, Yi Zhang, Jinrun Yin, Kemeng Tian, <b>Fangcheng Fu</b>, Tongxuan Liu, Tao Peng, Tong Yang, Bin Cui, Xupeng Miao, Ke Zhang
+<br>
+<b>SOSP 2026</b> (To Appear)
 </li>
 
 <li>
@@ -86,7 +96,7 @@ Youhe Jiang, <b>Fangcheng Fu</b><sup>#</sup>, Eiko Yoneki<sup>#</sup>
 HexiScale: Facilitating Large Language Model Training over Heterogeneous Hardware
 </i>
 <br>
-Ran Yan, Youhe Jiang, Xiaonan Nie, <b>Fangcheng Fu</b>, Bin Cui, Binhang Yuan
+Ran Yan<sup>*</sup>, Youhe Jiang<sup>*</sup>, Xiaonan Nie, <b>Fangcheng Fu</b>, Bin Cui, Binhang Yuan
 <br>
 <b>MLSys 2026</b>
 </li>
@@ -108,7 +118,7 @@ Efficient Multi-round LLM Inference over Disaggregated Serving
 <br>
 Wenhao He, Youhe Jiang, Penghao Zhao, Quanqing Xu, Eiko Yoneki, Bin Cui, <b>Fangcheng Fu</b><sup>#</sup>
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -118,7 +128,7 @@ EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for E
 <br>
 Yifei Xia, <b>Fangcheng Fu</b><sup>#</sup>, Hao Yuan, Suhan Ling, Xupeng Miao, Huixia Li, Yuxi Ren, Xin Xia, Xuefeng Xiao, Bin Cui<sup>#</sup>
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -126,9 +136,9 @@ Yifei Xia, <b>Fangcheng Fu</b><sup>#</sup>, Hao Yuan, Suhan Ling, Xupeng Miao, H
 OServe: Accelerating LLM Serving via Spatial-Temporal Workload Orchestration
 </i>
 <br>
-Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Taiyi Wang, Guoliang He, Eiko Yoneki
+Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Taiyi Wang<sup>*</sup>, Guoliang He, Eiko Yoneki
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -136,9 +146,9 @@ Youhe Jiang<sup>*</sup>, <b>Fangcheng Fu</b><sup>*</sup>, Taiyi Wang, Guoliang H
 DARTS: Distribution-Aware Active Rollout Trajectory Shaping for Accelerating LLM Reinforcement Learning
 </i>
 <br>
-Yujie Wang, Siwei Chen, Longzan Luo, Xinyi Liu, Xupeng Miao, <b>Fangcheng Fu</b>, Bin Cui
+Yujie Wang<sup>*</sup>, Siwei Chen<sup>*</sup>, Longzan Luo<sup>*</sup>, Xinyi Liu, Xupeng Miao, <b>Fangcheng Fu</b>, Bin Cui
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -148,7 +158,7 @@ SALE: Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Pref
 <br>
 Xiaodong Ji, Hailin Zhang, <b>Fangcheng Fu</b>, Bin Cui
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -156,9 +166,9 @@ Xiaodong Ji, Hailin Zhang, <b>Fangcheng Fu</b>, Bin Cui
 HexGen-3: A Fully Disaggregated LLM Serving Framework with Fine-Grained Heterogeneous Resource Autoscaling
 </i>
 <br>
-Youhe Jiang, Wenshuang Li, You Peng, Jintao Zhang, Ran Yan, Jianfei Chen, Xu Han, <b>Fangcheng Fu</b>, Binhang Yuan
+Youhe Jiang<sup>*</sup>, Wenshuang Li<sup>*</sup>, You Peng, Jintao Zhang, Ran Yan, Jianfei Chen, Xu Han, <b>Fangcheng Fu</b>, Binhang Yuan
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -168,7 +178,7 @@ Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
 <br>
 Haoyu Zheng, Yongqiang Zhang, <b>Fangcheng Fu</b>, Xiaokai Zhou, Hao Luo, Hongchao Zhu, Yuanyuan Zhu, Hao Wang, Xiao Yan, Jiawei Jiang
 <br>
-<b>ICML 2026</b> (To Appear)
+<b>ICML 2026</b> 
 </li>
 
 <li>
@@ -176,7 +186,7 @@ Haoyu Zheng, Yongqiang Zhang, <b>Fangcheng Fu</b>, Xiaokai Zhou, Hao Luo, Hongch
 Retrieval-Augmented Generation for AI-Generated Content: A Survey
 </i>
 <br>
-Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, <b>Fangcheng Fu</b><sup>#</sup>, Ling Yang, Wentao Zhang<sup>#</sup>, Jie Jiang, Bin Cui<sup>#</sup>
+Penghao Zhao<sup>*</sup>, Hailin Zhang<sup>*</sup>, Qinhan Yu, Zhengren Wang, Yunteng Geng, <b>Fangcheng Fu</b><sup>#</sup>, Ling Yang, Wentao Zhang<sup>#</sup>, Jie Jiang, Bin Cui<sup>#</sup>
 <br>
 <b>Data Science and Engineering 11:1-29 (2026)</b>
 </li>
@@ -438,7 +448,7 @@ ProjPert: Projection-based Perturbation for Label Protection in Split Learning b
 Improving Automatic Parallel Training via Balanced Memory Workload Optimization
 </i>
 <br>
-Yujie Wang, Youhe Jiang, Xupeng Miao<sup>#</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui<sup>#</sup>
+Yujie Wang, Youhe Jiang, Xupeng Miao, <b>Fangcheng Fu</b>, Shenhan Zhu, Xiaonan Nie, Yaofeng Tu, Bin Cui
 <br>
 <b>TKDE 36(8):3906-3920 (2024)</b>
 </li>
@@ -458,7 +468,7 @@ Zihao Yu, Haoyang Li, <b>Fangcheng Fu</b>, Xupeng Miao, Bin Cui
 X-former Elucidator: Reviving Efficient Attention for Long Context Language Modeling
 </i>
 <br>
-Xupeng Miao, Shenhan Zhu, <b>Fangcheng Fu</b>, Ziyu Guo, Zhi Yang, Yaofeng Tu, Zhihao Jia, Bin Cui
+Xupeng Miao<sup>*</sup>, Shenhan Zhu<sup>*</sup>, <b>Fangcheng Fu</b>, Ziyu Guo, Zhi Yang, Yaofeng Tu, Zhihao Jia, Bin Cui
 <br>
 <b>IJCAI 2024</b>
 </li>
@@ -696,35 +706,6 @@ MQLserve：基于量化的多任务大语言模型服务系统/MQLserve: Quantiz
 <b>软件学报/Journal of Software, 2019, 30(3):784-798</b>
 </li>
 
-</ul>
-
-<p><h1>Patents</h1></p>
-
-<ul>
-<li>
-基于深度神经网络最小方差梯度量化压缩及图像处理方法. ZL 2019 1 1029711.0
-</il>
-<li>
-一种数据处理方法、装置、设备及计算机可读存储介质. ZL 2021 1 0576191.6
-</il>
-<li>
-基于联邦学习的数据传输方法、装置以及可读存储介质. ZL 2021 1 0680161.X
-</il>
-<li>
-基于联邦神经网络模型的数据处理方法、相关设备及介质. ZL 2021 1 0531392.4
-</il>
-<li>
-联邦模型训练方法、装置、终端设备以及存储介质. ZL 2022 1 0363190.8
-</il>
-<li>
-多方安全计算方法、装置、设备及存储介质. ZL 2021 1 0503941.7
-</il>
-<li>
-联邦神经网络模型的训练方法、装置、设备及存储介质. ZL 2020 1 1167325.0
-</il>
-<li>
-数据集合处理方法、数据处理方法、装置及存储介质. ZL 2021 1 0541183.8
-</il>
 </ul>
 
 {{< /rawhtml >}}
