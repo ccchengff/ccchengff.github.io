@@ -17,7 +17,7 @@ menu:
 
 <p><sup>*</sup> indicates equal contribution, <sup>#</sup> indicates corresponding author</p>
 
-<p><h2>2026 & 2027</h2></p>
+<p><h2>2027 & 2026</h2></p>
 
 <ul>
 
@@ -29,6 +29,16 @@ StaleFlow: Staleness-Aware Data Management for Mitigating Data Skewness in Fully
 Haoyang Li<sup>*</sup>, Sheng Lin<sup>*</sup>, <b>Fangcheng Fu</b><sup>#</sup>, Yuming Zhou, Xiaodong Ji, Yanfeng Zhao, Lefeng Wang, Jie Jiang, Bin Cui<sup>#</sup>
 <br>
 <b>SIGMOD 2027</b> (To Appear)
+</li>
+
+<li>
+<i>
+LMDeploy Accelerates Mixed-Precision LLM Inference with TurboMind
+</i>
+<br>
+Li Zhang<sup>*</sup>, Youhe Jiang<sup>*</sup>, Guoliang He, Xin Chen, Han Lv, Qian Yao, Ningsheng Ma, <b>Fangcheng Fu</b>, Kai Chen
+<br>
+<b>EuroSys 2027</b> (To Appear)
 </li>
 
 <li>
@@ -179,6 +189,26 @@ Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
 Haoyu Zheng, Yongqiang Zhang, <b>Fangcheng Fu</b>, Xiaokai Zhou, Hao Luo, Hongchao Zhu, Yuanyuan Zhu, Hao Wang, Xiao Yan, Jiawei Jiang
 <br>
 <b>ICML 2026</b> 
+</li>
+
+<li>
+<i>
+Collaborative-Guided Diffusion for Sequential Recommendation
+</i>
+<br>
+Yanwei Xu, Ye Tian, <b>Fangcheng Fu</b>, Peichao Lai, Guoli Wu, Lianyong Qi, Bin Cui
+<br>
+<b>TKDE 2026 (To Appear)</b>
+</li>
+
+<li>
+<i>
+Social-guided Conditional Diffusion Modeling for Robust Social Recommendation
+</i>
+<br>
+Yanwei Xu, Yifei Xia, <b>Fangcheng Fu</b>, Gaoyong Han, Peichao Lai, Bin Cui
+<br>
+<b>SCIS 2026 (To Appear)</b>
 </li>
 
 <li>
