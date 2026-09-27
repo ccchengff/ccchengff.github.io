@@ -33,10 +33,20 @@ Haoyang Li<sup>*</sup>, Sheng Lin<sup>*</sup>, <b>Fangcheng Fu</b><sup>#</sup>, 
 
 <li>
 <i>
+Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization
+</i>
+<br>
+Boyan Wang, Zhuochen Fan, Dayu Wang, <b>Fangcheng Fu</b>, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang
+<br>
+<b>SIGMOD 2027</b> (To Appear)
+</li>
+
+<li>
+<i>
 LMDeploy Accelerates Mixed-Precision LLM Inference with TurboMind
 </i>
 <br>
-Li Zhang<sup>*</sup>, Youhe Jiang<sup>*</sup>, Guoliang He, Xin Chen, Han Lv, Qian Yao, Ningsheng Ma, <b>Fangcheng Fu</b>, Kai Chen
+Li Zhang<sup>*</sup>, Youhe Jiang<sup>*</sup>, Guoliang He, Xin Chen, Han Lv, Qian Yao, Ningsheng Ma, <b>Fangcheng Fu</b><sup>#</sup>, Kai Chen<sup>#</sup>
 <br>
 <b>EuroSys 2027</b> (To Appear)
 </li>
@@ -68,7 +78,7 @@ Multi-LLM Serving at Production Scale
 <br>
 Tianbao Zhou<sup>*</sup>, Yi Wang<sup>*</sup>, Yu Zhou<sup>*</sup>, Zirui Liu<sup>*</sup>, Zhiming Wang, Yebo Peng, Yongfu Wang, Yi Zhang, Jinrun Yin, Kemeng Tian, <b>Fangcheng Fu</b>, Tongxuan Liu, Tao Peng, Tong Yang, Bin Cui, Xupeng Miao, Ke Zhang
 <br>
-<b>SOSP 2026</b> (To Appear)
+<b>SOSP 2026</b>
 </li>
 
 <li>
@@ -193,12 +203,52 @@ Haoyu Zheng, Yongqiang Zhang, <b>Fangcheng Fu</b>, Xiaokai Zhou, Hao Luo, Hongch
 
 <li>
 <i>
+LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning
+</i>
+<br>
+Yifan Dai, Zhenhua Wu, Bohan Zeng, Daili Hua, Jialing Liu, Bozhou Li, Yuran Wang, Chengzhuo Tong, Hao Liang, Xiaochen Ma, Junbo Niu, Tianyu Guo, Yang Shi, Yue Ding, Yiyan Ji, Bingyin Mei, Yushuo Guan, Yuanxing Zhang, Pengfei Wan, <b>Fangcheng Fu</b>, Wentao Zhang
+<br>
+<b>NeurIPS 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management
+</i>
+<br>
+Haoyu Zheng, <b>Fangcheng Fu</b>, Jia Wu, Binhang Yuan, Yongqiang Zhang, Hao Wang, Yuanyuan Zhu, Xiao Yan, Jiawei Jiang
+<br>
+<b>NeurIPS 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+FELPS: Fair and Efficient Scheduling for Multi-LoRA Serving System
+</i>
+<br>
+Yukai Ding, Chuang Hu, <b>Fangcheng Fu</b>, Xinyan Li, Susie Xi Rao, Shanshan Feng, Hao Wang, Xiao Yan, Jiawei Jiang
+<br>
+<b>NeurIPS 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
+DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models
+</i>
+<br>
+Hao Liang, Zhengyang Zhao, Mingrui Chen, Meiyi Qiang, Lu Ma, Rongyi YU, Hengyi Feng, Shixuan Sun, Zimo Meng, Xiaochen Ma, Xuanlin Yang, Qifeng Cai, Ruichuan An, Bohan Zeng, Zhen Hao Wong, Chengyu Shen, Runming He, ZhaoYang Han, Yaowei Zheng, <b>Fangcheng Fu</b>, Conghui He, Bin Cui, Zhiyu li, Weinan E, Wentao Zhang
+<br>
+<b>NeurIPS 2026</b> (To Appear)
+</li>
+
+<li>
+<i>
 Collaborative-Guided Diffusion for Sequential Recommendation
 </i>
 <br>
 Yanwei Xu, Ye Tian, <b>Fangcheng Fu</b>, Peichao Lai, Guoli Wu, Lianyong Qi, Bin Cui
 <br>
-<b>TKDE 2026 (To Appear)</b>
+<b>TKDE 2026</b> (To Appear)
 </li>
 
 <li>
@@ -208,7 +258,7 @@ Social-guided Conditional Diffusion Modeling for Robust Social Recommendation
 <br>
 Yanwei Xu, Yifei Xia, <b>Fangcheng Fu</b>, Gaoyong Han, Peichao Lai, Bin Cui
 <br>
-<b>SCIS 2026 (To Appear)</b>
+<b>SCIS 2026</b> (To Appear)
 </li>
 
 <li>

@@ -17,6 +17,9 @@ menu:
 
 <ul>
 <li>
+<a href="https://www.sme-gov.cn/guangdong-news-173213.html">Special Prize of 2025 Guangdong Science and Technology Progress Award</a>, 2026
+</li>
+<li>
 <a href="https://mp.weixin.qq.com/s/1h6XCOzuw_0DeVb1jCti6w">ACM China Doctoral Dissertation Award</a> (Top 2 in China), 2024
 </li>
 <li>
